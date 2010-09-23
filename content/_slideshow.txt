@@ -1,0 +1,6 @@
+---
+filter: erb
+---
+<div id="slideshow">
+  <img src="images/legos.jpg" alt="Lego Pit at SXSWi'10" width="790" height="300"/>
+</div>
