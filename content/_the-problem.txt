@@ -7,5 +7,5 @@ filter: erb
 
   <p>Many Fortune 500 companies such as Cerner, Hallmark, VML and Handmark headquarters in Kansas City.  The the global entrepreneurial leadership organization the Kauffman Foundation also is headquartered in Kansas City.  These companies and organizations attract many intelligent and talented developers, designers and entrepreneurs to the midwestern city. The city is already home to a wonderful creative individuals.</p>
 
-  <p>The problem is the citizens of Kansas City does not recognize Kansas City as a home to creative people....</p>
+  <p>The problem is the citizens of Kansas City does not recognize Kansas City as a home to creative people.</p>
 </div>
