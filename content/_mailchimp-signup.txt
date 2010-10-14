@@ -1,53 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+---
+filter: erb
+---
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>Home | StartupKC</title>
-   <meta name="author" content="" />
-
-   <!--- Blueprint CSS Framework -->
-   <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
-   <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
-   <!--[if IE]>
-      <link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
-   <![endif]-->
-
-   <!-- CodeRay syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/coderay.css" type="text/css" />
-
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection" />
-</head>
-<body>
-  <div id="welcomeWrapper">
-    <div class="container">
-      <div class="column span-20 prepend-2 append-2 first last" id="header">
-        <h1 class="logo">StartupKC</h1>
-      </div>    
-      <div class="column span-20 prepend-2 append-2 first last" id="content">
-        <div id="slideshow">
-  <img src="images/legos.jpg" alt="Lego Pit at SXSWi'10" width="790" height="300"/>
-</div>
-<div id="the-problem" class="span-9">
-  <h2>The Problem</h2>
-  <p>Smacked in the middle of the United States, Kansas City is not known to have a startup community. Boulder, Austin, and Portland are a few of the cities that are home to newly emerging startup communities. The chances of overhearing a heated debate on value of Gowalla over Foursquare or an informal Facebook Connect implementation discussion is nil.</p>
-
-  <p>Many Fortune 500 companies such as Cerner, Hallmark, VML and Handmark headquarters in Kansas City.  The the global entrepreneurial leadership organization the Kauffman Foundation also is headquartered in Kansas City.  These companies and organizations attract many intelligent and talented developers, designers and entrepreneurs to the midwestern city. The city is already home to a wonderful creative individuals.</p>
- 
-  <p>The problem is the citizens of Kansas City does not recognize Kansas City as a home to creative people.</p>
-  <p>Test Information</p>
-</div>
-
-<div id="the-vision" class="span-9 prepend-1">
-  <h2>The Vision</h2>
-  <p>Kansas City has the technology, the design and the business expertise to build a startup community in the midwest. Many developers and designers already meet monthly to discuss their craft. Increase awareness of the talent in Kansas City would raise the number of opportunities to meet the business partner or investor to develop that startup idea.</p>
-
-  <p>Let's raise awareness of the startup community by getting together, having discussions and participating.</p>
-</div>
-
-<div id="the-vision" class="span-9 prepend-1">
+<div id="the-vision" class="<%= css %>">
     <h2>Get the Newsletter</h2>
 	
 	<!-- Begin MailChimp Signup Form -->
@@ -195,15 +150,3 @@
 	<!--End mc_embed_signup-->
 
 </div>
-<div class="clear"></div>
-<div id="mailer">
-</div>
-
-      </div>      
-    </div>
-    <div class="clear"></div>
-  </div>
-
-
-</body>
-</html>

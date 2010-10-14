@@ -7,5 +7,6 @@ filter:
 <%= render(:partial => "slideshow",   :locals => { :css => "span-20"})%>
 <%= render(:partial => "the-problem", :locals => { :css => "span-9" }) %>
 <%= render(:partial => "the-vision",  :locals => { :css => "span-9 prepend-1" }) %>
+<%= render(:partial => "mailchimp-signup",  :locals => { :css => "span-9 prepend-1" }) %>
 <div class="clear"></div>
 <%= render(:partial => "mailer")%>
