@@ -1,9 +1,0 @@
----
-filter: erb
----
-<div id="the-vision" class="<%= css %>">
-  <h2>The Vision</h2>
-  <p>Kansas City has the technology, the design and the business expertise to build a startup community in the midwest. Many developers and designers already meet monthly to discuss their craft. Increase awareness of the talent in Kansas City would raise the number of opportunities to meet the business partner or investor to develop that startup idea.</p>
-
-  <p>Let's raise awareness of the startup community by getting together, having discussions and participating.</p>
-</div>

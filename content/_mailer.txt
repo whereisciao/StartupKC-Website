@@ -1,5 +1,0 @@
----
-filter: erb
----
-<div id="mailer">
-</div>

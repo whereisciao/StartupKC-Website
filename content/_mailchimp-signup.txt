@@ -2,7 +2,7 @@
 filter: erb
 ---
 
-<div id="the-vision" class="<%= css %>">
+<div id="newsletter-signup" class="<%= css %>">
     <h2>Get the Newsletter</h2>
 	
 	<!-- Begin MailChimp Signup Form -->
