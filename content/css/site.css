@@ -62,4 +62,8 @@ p.title {
   background-color:#2F8D2E;
 }
 
+.nav { list-style: none; padding: 0; margin: 0; padding-bottom: 25px; }
+.nav a { text-decoration: none; color: #fff; }
+.nav li { float: left; margin-right: 3em; } 
+
 /* EOF */

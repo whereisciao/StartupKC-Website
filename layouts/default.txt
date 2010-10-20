@@ -25,6 +25,7 @@ filter:    erb
    <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection" />
 </head>
 <body>
+  <br>
   <div id="welcomeWrapper">
     <div class="container">
       <div class="column span-20 prepend-2 append-2 first last" id="header">

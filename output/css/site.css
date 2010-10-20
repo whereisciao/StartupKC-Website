@@ -5,7 +5,7 @@ body {
   font-family: Verdana, "Bitstream Vera Sans", sans-serif;
   color: #fff;
   font-size: 0.9em;
-  background-color: #369423;
+  background-color: #000000;
 }
 
 
@@ -61,5 +61,9 @@ p.title {
 #welcomeWrapper {
   background-color:#2F8D2E;
 }
+
+.nav { list-style: none; padding: 0; margin: 0; padding-bottom: 25px; }
+.nav a { text-decoration: none; color: #fff; }
+.nav li { float: left; margin-right: 3em; } 
 
 /* EOF */

@@ -1,0 +1,13 @@
+---
+title:      Navbar
+created_at: 2010-10-17 16:04:53.345201 -05:00
+filter:
+  - erb
+---
+<div id="navbar" class="<%= css %>">
+	<ul class="nav">
+		<li><a href="#home">Home</a></li>
+		<li><a href="#resources">Resources</a></li>
+	</ul>
+	<div class="clear"></div>
+</div>
