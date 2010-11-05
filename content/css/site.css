@@ -2,8 +2,10 @@
 
 
 body {
-  font-family: Verdana, "Bitstream Vera Sans", sans-serif;
-  color: #fff;
+  /* font-family: Verdana, "Bitstream Vera Sans", sans-serif; */
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
+  /* color: #fff; */
+  color: #000000;
   font-size: 0.9em;
   background-color: #000000;
 }
@@ -11,9 +13,17 @@ body {
 
 /* Headings
  * --------------------------------------------------------------------- */
-h1,h2,h3,h4,h5,h6 { color: #fff; text-shadow: 0.09em 0.09em #000; letter-spacing: 3px;}
-.logo {
+/* h1,h2,h3,h4,h5,h6 { color: #fff; text-shadow: 0.09em 0.09em #000; letter-spacing: 3px;} */
+h1,h3,h4,h5,h6 { color: #FF8700; letter-spacing: 3px;}
+h2 { color: #6D665C; letter-spacing: 3px;}
+.logo_front {
+  color: #6D665C;
   font-size: 6em;
+  margin-bottom: 0.25em;  
+}
+.logo_back {
+  color: #FF8700;
+  font-weight: bold;
   margin-bottom: 0.25em;  
 }
 
@@ -59,7 +69,7 @@ p.title {
 #header p.title { font-size: 3em; line-height: 1; margin-bottom: 0.5em; }
 
 #welcomeWrapper {
-  background-color:#2F8D2E;
+  background-color:#FFFFFF;
 }
 
 .nav { list-style: none; padding: 0; margin: 0; padding-bottom: 25px; }

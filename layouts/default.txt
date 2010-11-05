@@ -7,11 +7,15 @@ filter:    erb
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
-  <meta name="google-site-verification" content="2CtOmdMxduvLrgXe8fmxjz2IvfyI2qRUzat-UWPoDvs" />
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title><%= @page.title %> | StartupKC</title>
    <meta name="author" content="<%= @page.author %>" />
 
+	<meta name="robots" content="index,follow" />
+	<meta name="keywords" content="startupkc, startup kc, kansas city" />
+	<meta name="description" content="StartupKC is a resource for people who are interested in entrepreneurship." />
+	<meta name="author" content="StartupKC" />
+	
    <!--- Blueprint CSS Framework -->
    <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
    <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
@@ -30,7 +34,7 @@ filter:    erb
   <div id="welcomeWrapper">
     <div class="container">
       <div class="column span-20 prepend-2 append-2 first last" id="header">
-        <h1 class="logo">StartupKC</h1>
+        <h1 class="logo_front">Startup<span class="logo_back">KC</span></h1>
       </div>    
       <div class="column span-20 prepend-2 append-2 first last" id="content">
         <%= @content %>
