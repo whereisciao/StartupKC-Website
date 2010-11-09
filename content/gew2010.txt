@@ -13,7 +13,7 @@ filter:
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>Home Page | Global Entrepreneurship Week in Kansas City</title>
+   <title>Global Entrepreneurship Week '2010 in Kansas City</title>
    <meta name="author" content="" />
 
    <!--- Blueprint CSS Framework -->
@@ -38,6 +38,9 @@ filter:
        <span class="calender-title">Kansas City’s Calendar of <span class="year">2010</span></span>
        <span class="gew-title">Global Entrepreneurship Week</span>
        <span class="events-title">Events</span>
+     </p>
+     <p>
+       <strong>About this Page:</strong><br/>Global Entrepreneurship Week is a week-long event that highlights the growing movement of entrepreneurial people. All the content was sourced from the <a href="http://kcsourcelink.com/UserFiles/Servers/Server_1339285/file/pdf/GEWCalendar2010.pdf">GEW 2010 Event PDF</a>.
      </p>
    </div>
 
