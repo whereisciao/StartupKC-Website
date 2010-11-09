@@ -1,0 +1,239 @@
+---
+title:      gew2010
+created_at: 2010-11-08 20:27:53.913353 -06:00
+layout: false
+extension: html
+filter:
+  - erb
+---
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>Home Page | Global Entrepreneurship Week in Kansas City</title>
+   <meta name="author" content="" />
+
+   <!--- Blueprint CSS Framework -->
+   <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
+   <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+   <!--[if IE]>
+      <link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+   <![endif]-->
+
+   <!-- CodeRay syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/coderay.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/gew.css" type="text/css" media="screen, projection" />
+</head>
+<body>
+
+<div class="container">
+
+   <div class="column span-20 prepend-2 append-2 first last" id="header">
+     <p class="title">
+       <span class="calender-title">Kansas City’s Calendar of <span class="year">2010</span></span>
+       <span class="gew-title">Global Entrepreneurship Week</span>
+       <span class="events-title">Events</span>
+     </p>
+   </div>
+
+   <div class="column span-20 prepend-2 append-2 first last">
+      <div class="event event-1 odd">
+  <div class="left-column">
+    <h2>Startup Your Idea! Kansas City <nobr>Global Entrepreneurship Week</nobr> Kickoff Event</h2>
+    <p class="description">Open House, Consulting, and Networking Event for Entrepreneurs and Emerging Entrepreneurs to Learn about <nobr>Kauffman Foundation Programs</nobr></p>
+    <p class="details">
+      <span class="date">Monday, Nov. 15</span>: 4:00–9:00 p.m., at <nobr>Kauffman Foundation Conference Center</nobr>, <nobr>4801 Rockhill Road</nobr>, <nobr>Kansas City, Mo. 64110</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">This free event is designed for aspiring and existing entrepreneurs who want advice about a business idea or business challenge. From 4:00 to 6:00 p.m., participants can consult with experienced entrepreneurs and attend presentations to learn about Kauffman Foundation programs for entrepreneurs. From 6:00 to 7:00 p.m., network with participants and entrepreneurs. From 7:00 to 9:00 p.m., experience an introduction to a Startup Weekend. <strong>Space for this free event is limited, so registration is required at <a href="http://www.kauffman.org/startup2010">http://www.kauffman.org/startup2010</a></strong>. More information about the event is available on the registration page web address.</p>
+  </div>
+  <p class="registration">TO REGISTER: <a href="http://www.kauffman.org/startup2010">http://www.kauffman.org/startup2010</a></p>
+</div>
+<div class="event event-2 even">
+  <div class="left-column">  
+    <h2>OfficePort Showcase</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Monday, Nov. 15</span>: 5:30–8:30 p.m., at the OfficePort, <nobr>208 W. 19th Street</nobr>, <nobr>Kansas City, Mo. 64108</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">As a pioneering entrepreneurial incubator, OfficePort will host an entrepreneur’s showcase. The evening will include a demonstration of OfficePort offerings and existing efforts, and tours and discussions with Shaul Jolles, Michael Edmundson, Jon Trozzolo and other OfficePort tenants. Admission is $5.</p>
+  </div>
+  <p class="registration"></p>
+</div>
+<div class="event event-3 odd">
+  <div class="left-column">  
+    <h2>Entrepreneurs In Motion Conference</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Tuesday, Nov. 16</span>: 7:30 a.m.–2:00 p.m., at the <nobr>University of Central Missouri Summit Center</nobr>, <nobr>850 NW Chipman Rd., Door #54</nobr>, <nobr>Lee’s Summit, Mo. 64063</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">The Lee’s Summit Chamber of Commerce is celebrating the spirit of entrepreneurship by hosting the fourth annual Entrepreneurs In Motion conference. Elizabeth Demas will share her business success as the keynote presenter. In addition, attendees will participate in a business showcase and breakout sessions. Learn more at: <a href="http://www.lschamber.com/PDF/GEWBook.pdf">http://www.lschamber.com/PDF/GEWBook.pdf</a>. Early-bird registration expires Nov. 8—Lee’s Summit Chamber members: $35 and non-members: $70. After Nov. 8, cost is $50 for members and $85 for non-members. If you are not a Chamber member, please contact the Chamber office at 816-524-2424 to register. Contact Mark Dickey with any questions at 816-524-2424 or <a href="mailto:mdickey@lschamber.com">mdickey@lschamber.com</a>.</p>
+  </div>
+  <p class="registration">TO REGISTER: <a href="http://www.lschamber.com/PDF/GEWBook.pdf">http://www.lschamber.com/PDF/GEWBook.pdf</a></p>
+</div>
+<div class="event event-4 even">
+  <div class="left-column">  
+    <h2>Urban Entrepreneur Partnership (UEP) Connect 2 Success Day</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Wednesday, Nov. 17</span>: 10:00 a.m.–4:00 p.m., at <nobr>UEP Kansas City Office</nobr>, <nobr>1520 E. 18th Street (18th & Vine)</nobr>, <nobr>Kansas City, Mo. 64108</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">The Urban Entrepreneur Partnership (UEP), a program of the Kauffman Foundation, is introducing UEP 2.0 during Global Entrepreneurship Week 2010. UEP 2.0 will provide comprehensive one-to-one premiere business coaching services to entrepreneurs via a high-definition video delivery system. On Nov. 17, high-definition video conferencing units will be used in UEP offices located in Kansas City, New Orleans, Baton Rouge, and Detroit. Entrepreneurs will have the opportunity to do a short consultation with a coach from UEP’s network of first-class business coaches. Entrepreneurs interested in participating with UEP coaches during the Connect 2 Success Day on Nov. 17, 2010 must pre-register at <a href="http://www.kauffman.org/connect2success">http://www.kauffman.org/connect2success</a>. Business owners selected to participate in this one-day event will be required to visit the UEP 2.0 video conference center in Kansas City at a pre-arranged time.</p>
+  </div>
+  <p class="registration">TO REGISTER: <a href="http://www.kauffman.org/connect2success">http://www.kauffman.org/connect2success</a></p>
+</div>
+<div class="event event-5 odd">
+  <div class="left-column">  
+    <h2>The Talent Masters: Why Smart Leaders Put People Before Numbers</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Wednesday, Nov. 17</span>: 11:00 a.m–1:00 p.m., at <nobr>Overland Park Convention Center</nobr>, <nobr>6000 College Blvd.</nobr>, <nobr>Overland Park, Kan. 66211</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">Bill Conaty, former senior vice president of General Electric, will share his business experiences and give attendees the opportunity to hear about how they should build talent within their companies and why it’s vital to their success. The event, part of the Thinking Bigger Business Media, Inc. speakers series, costs $55 for lunch and a copy of his book, <em>The Talent Masters: Why Smart Leaders Put People Before Numbers.</em></p>
+  </div>
+  <p class="registration">TO REGISTER: <a href="http://www.iThinkBigger.com">http://www.iThinkBigger.com</a></p>
+</div>
+<div class="event event-6 even">
+  <div class="left-column">  
+    <h2>Entrepreneurship in Literary and Performing Arts</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Wednesday, Nov. 17</span>: 5:30–9:30 p.m., at <nobr>Prospero’s Bookstore and Event Space</nobr>, <nobr>1800 W. 39th Street (upstairs performance space)</nobr>, <nobr>Kansas City, Mo. 64111</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">Prospero’s will highlight entrepreneurship in literary and performing arts in Kansas City. The evening’s hosts will provide discussion on the leadership and assistance available for entrepreneurs. In addition, entrepreneurial writers, poets, and performers will share their work as performances. Admission is $5.</p>
+    <table class="timetable">
+      <tbody>
+        <tr>
+          <td class="slot">5:30–6:15 p.m.</td>
+          <td class="desc">Reception & Networking (incidental music by Forrest Whitlow)</td>
+        </tr>
+        <tr>
+          <td class="slot">6:15–7:00 p.m.</td>
+          <td class="desc">Introduction & Discussion</td>
+        </tr>
+        <tr>
+          <td class="slot">7:00–7:40 p.m.</td>
+          <td class="desc">Readings & Performances by Authors & Artists featuring Will Leathem (owner of Prospero’s Books), Connie Dover, Jon Bidwell, Jason Ryberg, Iris Appelquist, and Mickey Cesar</td>
+        </tr>
+        <tr>
+          <td class="slot">7:40–8:30 p.m.</td>
+          <td class="desc">Film showing: The Boss, which features cameos by regional writers and artists.</td>
+        </tr>
+      </tbody>
+    </table>    
+  </div>
+  <p class="registration"></p>
+</div>
+<div class="event event-7 odd">
+  <div class="left-column">  
+    <h2>GovFest 2010 for Entrepreneurs: What Government Information Can Do For Your Business</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Thursday, Nov. 18</span>: 10:00 a.m.–8:30 p.m., at <nobr>Johnson County Central Resource Library</nobr>, <nobr>9875 W. 87th St.</nobr>, <nobr>Overland Park, Kan. 66212</nobr>, <nobr>Gallery Area and Carmack Community Room</nobr>; 
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">GovFest is sponsored by Johnson County Library, Kansas Small Business Development Center at JCCC, Heartland Procurement Technical Assistance Center, KCSourceLink, and the State Library of Kansas. GovFest invites entrepreneurs to attend a variety of workshops and talk to representatives from agencies that provide services and support to area entrepreneurs. Many government agencies help business owners start or expand a business for little or no cost. Representatives from local agencies will attend, including: General Services Administration, IRS Taxpayer Advocate Service, Bureau of Labor Statistics, UMKC Entrepreneurial Services Clinic, Small Business Administration, and many more. There is no cost to attend, and no reservations required. Learn more at <a href="http://www.jocolibrary.org/govfest">http://www.jocolibrary.org/govfest</a>.</p>
+    <table class="timetable">
+      <tbody>
+        <tr>
+          <td class="slot">10:00 a.m–8:30 p.m.</td>
+          <td class="desc">Program hours</td>
+        </tr>
+        <tr>
+          <td class="slot">11:00 a.m.–6:00 p.m.</td>
+          <td class="desc">Exhibitors hours</td>
+        </tr>
+        <tr>
+          <td class="slot">5:00–6:00 p.m.</td>
+          <td class="desc">Reception</td>
+        </tr>
+      </tbody>
+    </table>    
+  </div>
+  <p class="registration"></p>
+</div>
+<div class="event event-8 even">
+  <div class="left-column">  
+    <h2>Central Exchange Celebrates Women Entrepreneurs</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Thursday, Nov. 18</span>: Noon-1:30pm., at the <nobr>Central Exchange South Location</nobr>, <nobr>6201 College Blvd.</nobr>, <nobr>Leawood, Kan. 66211</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">The Central Exchange will celebrate and recognize women entrepreneurs in Kansas City by featuring a panel discussion with three successful women entrepreneurs who share their experiences of starting and building their businesses. The panel includes: Gail Worth, owner of Gail’s Harley Davidson; Trish Walker, owner of Magic Touch Cleaning; and Christina Sloan Long, vice president of Fulfillment Plus, and co-owner of Li’L Guys Foods. To register: <a href="http://www.centralexchange.org">http://www.centralexchange.org</a> or call <nobr>816-471-7560</nobr>.</p>
+  </div>
+  <p class="registration">TO REGISTER: <a href="http://www.centralexchange.org">http://www.centralexchange.org</a></p>
+</div>
+<div class="event event-9 odd">
+  <div class="left-column">  
+    <h2>Kansas City Hispanic Economic Development Corporation’s Annual Event</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Thursday, Nov. 18</span>: 5:00–7:00 p.m., at <nobr>Boulevard Brewery</nobr>, <nobr>2501 Southwest Blvd.</nobr>, <nobr>Kansas City, Mo. 64108</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">This HEDC event, with a short program beginning at 6:15 p.m., will feature the theme “Past, Present and Future” and will include approximately 200 friends including funders, clients, neighborhood residents, local leaders, political representatives, and many other HEDC stakeholders. The event celebrates HEDC and its 17 years as Kansas City’s leading Hispanic business and development resource. For more information, contact Gloria Zarate at <a href="mailto:gzarate@kchedc.org">gzarate@kchedc.org</a> or <nobr>816-221-2442</nobr>.</p>
+  </div>
+  <p class="registration"></p>
+</div>
+<div class="event event-10 even">
+  <div class="left-column">  
+    <h2>Entrepreneurship in Design and Fashion</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Thursday, Nov. 18</span>: 5:30–8:30 p.m., at <nobr>TOMBOY Design Studio on the Plaza</nobr>, <nobr>608 1/2 West 48th Street</nobr>, <nobr>Kansas City, Mo. 64108</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">TOMBOY Design Studio, with locations in the Crossroads and on the Country Club Plaza, will provide discussions on entrepreneurship within the design and fashion industry. The TOMBOY team will showcase designers, fashion entrepreneurs and others. Admission is $5.</p>
+  </div>
+  <p class="registration"></p>
+</div>
+<div class="event event-11 odd">
+  <div class="left-column">  
+    <h2>Fourth Annual Kansas City Small and Home Business Connection Expo</h2>
+    <p class="description"></p>
+    <p class="details">
+      <span class="date">Friday, Nov. 19</span>: 10:00 a.m.–5:00 p.m., at the <nobr>Johnson County Administration Building</nobr>, <nobr>111 S. Cherry St.</nobr>, <nobr>Olathe, Kan. 66061</nobr>
+    </p>
+  </div>
+  <div class="right-column">  
+    <p class="summary">The SHBC Expo is designed to provide support, education, and networking opportunities for growing businesses in the Kansas City area. Through a partnership with the K-State Extension Office, the Small and Home Business Connection Expo will provide free entrepreneurial workshops, business booths, and networking opportunities. In addition, the event will sponsor an entrepreneurial contest for adults with business ideas, and angel investors will serve as judges for the competition. Three scholarships are available for high school juniors and seniors. To register or to learn more, visit <a href="http://www.kcshbcexpo.org">http://www.kcshbcexpo.org</a>.</p>
+  </div>
+  <p class="registration">TO REGISTER: <a href="http://www.kcshbcexpo.org">http://www.kcshbcexpo.org</a></p>
+</div>
+
+
+
+   </div>
+
+   <div class="column span-20 prepend-2 append-2 first last" id="footer">
+     <hr />
+     <img class="gew-logo" src="/images/gew-logo.jpg" alt="Global Entrepreneurship Week" width="188" height="101"/>
+     <img class="kauffman-logo" src="/images/kauffman-logo.jpg" alt="Kauffman Foundation" width="178" height="43"/>
+     <p>To learn more about Global Entrepreneurship Week, visit <a href="http://www.unleashingideas.org">http://www.unleashingideas.org</a>.<br/>
+     For details about events happening in the United States, visit <a href="http://www.GEWUSA.org">www.GEWUSA.org</a>.</p>
+   </div>
+
+</div>
+</body>
+</html>
