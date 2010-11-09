@@ -3,6 +3,7 @@ urls = []
 urls << '/images'
 urls << '/css'
 urls << '/silver.html'
+urls << '/gew2010.html'
 # urls << '/favicon.ico'
 use Rack::Static, :urls => urls, :root => "output"
 
